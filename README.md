@@ -20,7 +20,4 @@ Novak, J., & Zwiercan, R. (2015). Reorganizing through lean principles: A team a
 )
 
 Novak, J. Ebook Lending Platforms. *Against the Grain*, 25 (6), 22-26.
-http://digitalscholarship.unlv.edu/lib_articles/445/
-
-
-*Text in italics*
+[http://digitalscholarship.unlv.edu/lib_articles/445/](http://digitalscholarship.unlv.edu/lib_articles/445/)
