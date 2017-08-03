@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jnovak001/my-first-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# My Resume
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
 
-### Markdown
+### Head, Scholarly Communication Initiatives
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Head of a department responsible for advancing scholarly communication support services.
 
-```markdown
-Syntax highlighted code block
+[UNLV Libraries](http://www.library.unlv.edu)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**References**
 
-**Bold** and _Italic_ and `Code` text
+Novak, J., & Day, A. (2015). The Libraries They Are A-Changin’: How Libraries Reorganize. *College & Undergraduate Libraries*, 22(3-4), 358–373. [https://doi:10.1080/10691316.2015.1067663](https://doi:10.1080/10691316.2015.1067663)
 
-[Link](url) and ![Image](src)
-```
+Novak, J., & Zwiercan, R. (2015). Reorganizing through lean principles: A team approach to examining and improving acquisition processes. *Strategic Library*, 16, 1-4. [http://digitalscholarship.unlv.edu/lib_articles/478/
+](http://digitalscholarship.unlv.edu/lib_articles/478/
+)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Novak, J. Ebook Lending Platforms. *Against the Grain*, 25 (6), 22-26.
+http://digitalscholarship.unlv.edu/lib_articles/445/
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jnovak001/my-first-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*Text in italics*
